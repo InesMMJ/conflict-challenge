@@ -1,4 +1,5 @@
 # conflict-challenge
-add a few lines of text
-test 1 
-test 2 
+
+add a few lines of text ADD SHIT FOR CONFLICT
+test 1
+test 2
